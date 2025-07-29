@@ -35,5 +35,5 @@ This was developed during an internship with a startup robotics company in Colom
 
 
 ## 📄 Technical Report
-You can read the full project report [here](docs/Technical Report Stems.pdf).
+You can read the full project report [here](docs/Technical_Report_Stems.pdf).
 
