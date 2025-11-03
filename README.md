@@ -31,7 +31,7 @@ Provide your own image or use the included test image
 View the output with highlighted branches and centroid location
 
 ✨ Why This Matters
-This was developed during an internship with a startup robotics company in Colombia. It helped me apply image processing techniques in unpredictable real-world conditions — far from the ideal setups we often see in university labs.
+This was developed during an internship with a startup robotics company in Colombia. It helped me apply image processing techniques in unpredictable real-world conditions, far from the ideal setups we often see in university labs.
 
 
 ## 📄 Technical Report
